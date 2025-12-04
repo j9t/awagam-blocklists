@@ -1,1 +1,3 @@
-# awagam-blocklists
+# AWAGAM Blocklists
+
+@@
