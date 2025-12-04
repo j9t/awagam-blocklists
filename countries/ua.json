@@ -1,0 +1,9 @@
+{
+	"country": {
+		"name": "Ukraine",
+		"tlds": [
+			".ua",
+			".укр"
+		]
+	}
+}

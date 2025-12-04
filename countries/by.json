@@ -1,0 +1,9 @@
+{
+	"country": {
+		"name": "Belarus",
+		"tlds": [
+			".by",
+			".бел"
+		]
+	}
+}

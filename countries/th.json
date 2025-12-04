@@ -1,0 +1,9 @@
+{
+	"country": {
+		"name": "Thailand",
+		"tlds": [
+			".th",
+			".ไทย"
+		]
+	}
+}

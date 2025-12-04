@@ -1,0 +1,9 @@
+{
+	"country": {
+		"name": "Bangladesh",
+		"tlds": [
+			".bd",
+			".বাংলা"
+		]
+	}
+}

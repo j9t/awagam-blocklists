@@ -1,0 +1,9 @@
+{
+	"country": {
+		"name": "Russia",
+		"tlds": [
+			".ru",
+			".рф"
+		]
+	}
+}

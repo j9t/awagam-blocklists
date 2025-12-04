@@ -1,0 +1,9 @@
+{
+	"country": {
+		"name": "Egypt",
+		"tlds": [
+			".eg",
+			".مصر"
+		]
+	}
+}

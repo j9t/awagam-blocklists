@@ -1,0 +1,8 @@
+{
+	"country": {
+		"name": "United States",
+		"tlds": [
+			".us"
+		]
+	}
+}
