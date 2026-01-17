@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Lebanon",
-		"tlds": [
-			".lb"
-		]
-	}
+  "country": {
+    "name": "Lebanon",
+    "tlds": [
+      ".lb"
+    ]
+  }
 }

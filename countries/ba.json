@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Bosnia and Herzegovina",
-		"tlds": [
-			".ba"
-		]
-	}
+  "country": {
+    "name": "Bosnia and Herzegovina",
+    "tlds": [
+      ".ba"
+    ]
+  }
 }

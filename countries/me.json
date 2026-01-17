@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Montenegro",
-		"tlds": [
-			".me"
-		]
-	}
+  "country": {
+    "name": "Montenegro",
+    "tlds": [
+      ".me"
+    ]
+  }
 }

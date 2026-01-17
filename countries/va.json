@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Vatican City",
-		"tlds": [
-			".va"
-		]
-	}
+  "country": {
+    "name": "Vatican City",
+    "tlds": [
+      ".va"
+    ]
+  }
 }

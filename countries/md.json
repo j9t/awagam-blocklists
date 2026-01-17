@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Moldova",
-		"tlds": [
-			".md"
-		]
-	}
+  "country": {
+    "name": "Moldova",
+    "tlds": [
+      ".md"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Ethiopia",
-		"tlds": [
-			".et"
-		]
-	}
+  "country": {
+    "name": "Ethiopia",
+    "tlds": [
+      ".et"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Congo",
-		"tlds": [
-			".cg"
-		]
-	}
+  "country": {
+    "name": "Congo",
+    "tlds": [
+      ".cg"
+    ]
+  }
 }

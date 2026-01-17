@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Indonesia",
-		"tlds": [
-			".id"
-		]
-	}
+  "country": {
+    "name": "Indonesia",
+    "tlds": [
+      ".id"
+    ]
+  }
 }

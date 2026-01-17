@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Eswatini",
-		"tlds": [
-			".sz"
-		]
-	}
+  "country": {
+    "name": "Eswatini",
+    "tlds": [
+      ".sz"
+    ]
+  }
 }

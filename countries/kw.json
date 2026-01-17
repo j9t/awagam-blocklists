@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Kuwait",
-		"tlds": [
-			".kw"
-		]
-	}
+  "country": {
+    "name": "Kuwait",
+    "tlds": [
+      ".kw"
+    ]
+  }
 }

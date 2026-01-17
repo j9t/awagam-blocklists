@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Tunisia",
-		"tlds": [
-			".tn",
-			".تونس"
-		]
-	}
+  "country": {
+    "name": "Tunisia",
+    "tlds": [
+      ".tn",
+      ".تونس"
+    ]
+  }
 }

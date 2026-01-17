@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Tuvalu",
-		"tlds": [
-			".tv"
-		]
-	}
+  "country": {
+    "name": "Tuvalu",
+    "tlds": [
+      ".tv"
+    ]
+  }
 }

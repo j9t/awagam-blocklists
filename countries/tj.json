@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Tajikistan",
-		"tlds": [
-			".tj"
-		]
-	}
+  "country": {
+    "name": "Tajikistan",
+    "tlds": [
+      ".tj"
+    ]
+  }
 }

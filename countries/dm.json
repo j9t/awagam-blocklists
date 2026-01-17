@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Dominica",
-		"tlds": [
-			".dm"
-		]
-	}
+  "country": {
+    "name": "Dominica",
+    "tlds": [
+      ".dm"
+    ]
+  }
 }

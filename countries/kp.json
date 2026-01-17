@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "North Korea",
-		"tlds": [
-			".kp"
-		]
-	}
+  "country": {
+    "name": "North Korea",
+    "tlds": [
+      ".kp"
+    ]
+  }
 }

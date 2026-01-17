@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Norway",
-		"tlds": [
-			".no"
-		]
-	}
+  "country": {
+    "name": "Norway",
+    "tlds": [
+      ".no"
+    ]
+  }
 }

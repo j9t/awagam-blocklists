@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Algeria",
-		"tlds": [
-			".dz",
-			".الجزائر"
-		]
-	}
+  "country": {
+    "name": "Algeria",
+    "tlds": [
+      ".dz",
+      ".الجزائر"
+    ]
+  }
 }

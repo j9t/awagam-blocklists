@@ -1,10 +1,10 @@
 {
-	"country": {
-		"name": "Sri Lanka",
-		"tlds": [
-			".lk",
-			".இலங்கை",
-			".ලංකා"
-		]
-	}
+  "country": {
+    "name": "Sri Lanka",
+    "tlds": [
+      ".lk",
+      ".இலங்கை",
+      ".ලංකා"
+    ]
+  }
 }

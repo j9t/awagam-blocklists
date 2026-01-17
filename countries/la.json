@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Laos",
-		"tlds": [
-			".la"
-		]
-	}
+  "country": {
+    "name": "Laos",
+    "tlds": [
+      ".la"
+    ]
+  }
 }

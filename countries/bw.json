@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Botswana",
-		"tlds": [
-			".bw"
-		]
-	}
+  "country": {
+    "name": "Botswana",
+    "tlds": [
+      ".bw"
+    ]
+  }
 }

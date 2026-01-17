@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Philippines",
-		"tlds": [
-			".ph"
-		]
-	}
+  "country": {
+    "name": "Philippines",
+    "tlds": [
+      ".ph"
+    ]
+  }
 }

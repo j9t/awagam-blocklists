@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Greece",
-		"tlds": [
-			".gr",
-			".ελ"
-		]
-	}
+  "country": {
+    "name": "Greece",
+    "tlds": [
+      ".gr",
+      ".ελ"
+    ]
+  }
 }

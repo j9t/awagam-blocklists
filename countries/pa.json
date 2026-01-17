@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Panama",
-		"tlds": [
-			".pa"
-		]
-	}
+  "country": {
+    "name": "Panama",
+    "tlds": [
+      ".pa"
+    ]
+  }
 }

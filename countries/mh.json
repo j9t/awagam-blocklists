@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Marshall Islands",
-		"tlds": [
-			".mh"
-		]
-	}
+  "country": {
+    "name": "Marshall Islands",
+    "tlds": [
+      ".mh"
+    ]
+  }
 }

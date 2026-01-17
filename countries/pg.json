@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Papua New Guinea",
-		"tlds": [
-			".pg"
-		]
-	}
+  "country": {
+    "name": "Papua New Guinea",
+    "tlds": [
+      ".pg"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Japan",
-		"tlds": [
-			".jp"
-		]
-	}
+  "country": {
+    "name": "Japan",
+    "tlds": [
+      ".jp"
+    ]
+  }
 }

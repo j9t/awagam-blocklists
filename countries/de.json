@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Germany",
-		"tlds": [
-			".de"
-		]
-	}
+  "country": {
+    "name": "Germany",
+    "tlds": [
+      ".de"
+    ]
+  }
 }

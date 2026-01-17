@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Jamaica",
-		"tlds": [
-			".jm"
-		]
-	}
+  "country": {
+    "name": "Jamaica",
+    "tlds": [
+      ".jm"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "South Sudan",
-		"tlds": [
-			".ss"
-		]
-	}
+  "country": {
+    "name": "South Sudan",
+    "tlds": [
+      ".ss"
+    ]
+  }
 }

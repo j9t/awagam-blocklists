@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Madagascar",
-		"tlds": [
-			".mg"
-		]
-	}
+  "country": {
+    "name": "Madagascar",
+    "tlds": [
+      ".mg"
+    ]
+  }
 }

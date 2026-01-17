@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Belarus",
-		"tlds": [
-			".by",
-			".бел"
-		]
-	}
+  "country": {
+    "name": "Belarus",
+    "tlds": [
+      ".by",
+      ".бел"
+    ]
+  }
 }

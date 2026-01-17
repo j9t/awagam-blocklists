@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Saudi Arabia",
-		"tlds": [
-			".sa",
-			".السعودية"
-		]
-	}
+  "country": {
+    "name": "Saudi Arabia",
+    "tlds": [
+      ".sa",
+      ".السعودية"
+    ]
+  }
 }

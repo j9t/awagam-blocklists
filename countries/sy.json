@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Syria",
-		"tlds": [
-			".sy"
-		]
-	}
+  "country": {
+    "name": "Syria",
+    "tlds": [
+      ".sy"
+    ]
+  }
 }

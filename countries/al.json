@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Albania",
-		"tlds": [
-			".al"
-		]
-	}
+  "country": {
+    "name": "Albania",
+    "tlds": [
+      ".al"
+    ]
+  }
 }

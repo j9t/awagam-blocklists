@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Qatar",
-		"tlds": [
-			".qa",
-			".قطر"
-		]
-	}
+  "country": {
+    "name": "Qatar",
+    "tlds": [
+      ".qa",
+      ".قطر"
+    ]
+  }
 }

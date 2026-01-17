@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Venezuela",
-		"tlds": [
-			".ve"
-		]
-	}
+  "country": {
+    "name": "Venezuela",
+    "tlds": [
+      ".ve"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Sao Tome and Principe",
-		"tlds": [
-			".st"
-		]
-	}
+  "country": {
+    "name": "Sao Tome and Principe",
+    "tlds": [
+      ".st"
+    ]
+  }
 }

@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "United Kingdom",
-		"tlds": [
-			".uk",
-			".gb"
-		]
-	}
+  "country": {
+    "name": "United Kingdom",
+    "tlds": [
+      ".uk",
+      ".gb"
+    ]
+  }
 }

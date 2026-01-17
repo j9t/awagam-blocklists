@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Belgium",
-		"tlds": [
-			".be"
-		]
-	}
+  "country": {
+    "name": "Belgium",
+    "tlds": [
+      ".be"
+    ]
+  }
 }

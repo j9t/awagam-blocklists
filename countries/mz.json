@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Mozambique",
-		"tlds": [
-			".mz"
-		]
-	}
+  "country": {
+    "name": "Mozambique",
+    "tlds": [
+      ".mz"
+    ]
+  }
 }

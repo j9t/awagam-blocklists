@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Iran",
-		"tlds": [
-			".ir",
-			".ایران"
-		]
-	}
+  "country": {
+    "name": "Iran",
+    "tlds": [
+      ".ir",
+      ".ایران"
+    ]
+  }
 }

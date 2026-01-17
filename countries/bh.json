@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Bahrain",
-		"tlds": [
-			".bh"
-		]
-	}
+  "country": {
+    "name": "Bahrain",
+    "tlds": [
+      ".bh"
+    ]
+  }
 }

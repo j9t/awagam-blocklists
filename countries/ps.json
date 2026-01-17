@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Palestine",
-		"tlds": [
-			".ps",
-			".فلسطين"
-		]
-	}
+  "country": {
+    "name": "Palestine",
+    "tlds": [
+      ".ps",
+      ".فلسطين"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Hungary",
-		"tlds": [
-			".hu"
-		]
-	}
+  "country": {
+    "name": "Hungary",
+    "tlds": [
+      ".hu"
+    ]
+  }
 }

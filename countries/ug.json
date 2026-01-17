@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Uganda",
-		"tlds": [
-			".ug"
-		]
-	}
+  "country": {
+    "name": "Uganda",
+    "tlds": [
+      ".ug"
+    ]
+  }
 }

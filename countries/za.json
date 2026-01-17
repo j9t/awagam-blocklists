@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "South Africa",
-		"tlds": [
-			".za"
-		]
-	}
+  "country": {
+    "name": "South Africa",
+    "tlds": [
+      ".za"
+    ]
+  }
 }

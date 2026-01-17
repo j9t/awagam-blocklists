@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Iraq",
-		"tlds": [
-			".iq"
-		]
-	}
+  "country": {
+    "name": "Iraq",
+    "tlds": [
+      ".iq"
+    ]
+  }
 }

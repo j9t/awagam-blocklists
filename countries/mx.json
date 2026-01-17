@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Mexico",
-		"tlds": [
-			".mx"
-		]
-	}
+  "country": {
+    "name": "Mexico",
+    "tlds": [
+      ".mx"
+    ]
+  }
 }

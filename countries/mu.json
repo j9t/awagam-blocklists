@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Mauritius",
-		"tlds": [
-			".mu"
-		]
-	}
+  "country": {
+    "name": "Mauritius",
+    "tlds": [
+      ".mu"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Finland",
-		"tlds": [
-			".fi"
-		]
-	}
+  "country": {
+    "name": "Finland",
+    "tlds": [
+      ".fi"
+    ]
+  }
 }

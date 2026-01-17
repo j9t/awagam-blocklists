@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Oman",
-		"tlds": [
-			".om"
-		]
-	}
+  "country": {
+    "name": "Oman",
+    "tlds": [
+      ".om"
+    ]
+  }
 }

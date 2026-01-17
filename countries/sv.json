@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "El Salvador",
-		"tlds": [
-			".sv"
-		]
-	}
+  "country": {
+    "name": "El Salvador",
+    "tlds": [
+      ".sv"
+    ]
+  }
 }

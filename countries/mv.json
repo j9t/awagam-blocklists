@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Maldives",
-		"tlds": [
-			".mv"
-		]
-	}
+  "country": {
+    "name": "Maldives",
+    "tlds": [
+      ".mv"
+    ]
+  }
 }

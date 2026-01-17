@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Saint Kitts and Nevis",
-		"tlds": [
-			".kn"
-		]
-	}
+  "country": {
+    "name": "Saint Kitts and Nevis",
+    "tlds": [
+      ".kn"
+    ]
+  }
 }

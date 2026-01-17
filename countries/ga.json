@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Gabon",
-		"tlds": [
-			".ga"
-		]
-	}
+  "country": {
+    "name": "Gabon",
+    "tlds": [
+      ".ga"
+    ]
+  }
 }

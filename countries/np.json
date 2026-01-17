@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Nepal",
-		"tlds": [
-			".np"
-		]
-	}
+  "country": {
+    "name": "Nepal",
+    "tlds": [
+      ".np"
+    ]
+  }
 }

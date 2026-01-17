@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Romania",
-		"tlds": [
-			".ro"
-		]
-	}
+  "country": {
+    "name": "Romania",
+    "tlds": [
+      ".ro"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Equatorial Guinea",
-		"tlds": [
-			".gq"
-		]
-	}
+  "country": {
+    "name": "Equatorial Guinea",
+    "tlds": [
+      ".gq"
+    ]
+  }
 }

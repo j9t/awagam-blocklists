@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Croatia",
-		"tlds": [
-			".hr"
-		]
-	}
+  "country": {
+    "name": "Croatia",
+    "tlds": [
+      ".hr"
+    ]
+  }
 }

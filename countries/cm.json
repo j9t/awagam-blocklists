@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Cameroon",
-		"tlds": [
-			".cm"
-		]
-	}
+  "country": {
+    "name": "Cameroon",
+    "tlds": [
+      ".cm"
+    ]
+  }
 }

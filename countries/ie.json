@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Ireland",
-		"tlds": [
-			".ie"
-		]
-	}
+  "country": {
+    "name": "Ireland",
+    "tlds": [
+      ".ie"
+    ]
+  }
 }

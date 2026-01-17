@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Mauritania",
-		"tlds": [
-			".mr"
-		]
-	}
+  "country": {
+    "name": "Mauritania",
+    "tlds": [
+      ".mr"
+    ]
+  }
 }

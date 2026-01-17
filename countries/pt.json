@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Portugal",
-		"tlds": [
-			".pt"
-		]
-	}
+  "country": {
+    "name": "Portugal",
+    "tlds": [
+      ".pt"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Nigeria",
-		"tlds": [
-			".ng"
-		]
-	}
+  "country": {
+    "name": "Nigeria",
+    "tlds": [
+      ".ng"
+    ]
+  }
 }

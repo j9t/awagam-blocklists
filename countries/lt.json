@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Lithuania",
-		"tlds": [
-			".lt"
-		]
-	}
+  "country": {
+    "name": "Lithuania",
+    "tlds": [
+      ".lt"
+    ]
+  }
 }

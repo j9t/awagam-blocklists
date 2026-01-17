@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Yemen",
-		"tlds": [
-			".ye"
-		]
-	}
+  "country": {
+    "name": "Yemen",
+    "tlds": [
+      ".ye"
+    ]
+  }
 }

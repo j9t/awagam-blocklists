@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Saint Lucia",
-		"tlds": [
-			".lc"
-		]
-	}
+  "country": {
+    "name": "Saint Lucia",
+    "tlds": [
+      ".lc"
+    ]
+  }
 }

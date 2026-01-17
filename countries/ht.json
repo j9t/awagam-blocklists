@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Haiti",
-		"tlds": [
-			".ht"
-		]
-	}
+  "country": {
+    "name": "Haiti",
+    "tlds": [
+      ".ht"
+    ]
+  }
 }

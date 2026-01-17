@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "North Macedonia",
-		"tlds": [
-			".mk",
-			".мкд"
-		]
-	}
+  "country": {
+    "name": "North Macedonia",
+    "tlds": [
+      ".mk",
+      ".мкд"
+    ]
+  }
 }

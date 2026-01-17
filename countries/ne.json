@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Niger",
-		"tlds": [
-			".ne"
-		]
-	}
+  "country": {
+    "name": "Niger",
+    "tlds": [
+      ".ne"
+    ]
+  }
 }

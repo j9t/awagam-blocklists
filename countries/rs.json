@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Serbia",
-		"tlds": [
-			".rs",
-			".срб"
-		]
-	}
+  "country": {
+    "name": "Serbia",
+    "tlds": [
+      ".rs",
+      ".срб"
+    ]
+  }
 }

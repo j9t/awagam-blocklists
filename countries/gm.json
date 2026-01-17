@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Gambia",
-		"tlds": [
-			".gm"
-		]
-	}
+  "country": {
+    "name": "Gambia",
+    "tlds": [
+      ".gm"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Comoros",
-		"tlds": [
-			".km"
-		]
-	}
+  "country": {
+    "name": "Comoros",
+    "tlds": [
+      ".km"
+    ]
+  }
 }

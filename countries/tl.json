@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Timor-Leste",
-		"tlds": [
-			".tl"
-		]
-	}
+  "country": {
+    "name": "Timor-Leste",
+    "tlds": [
+      ".tl"
+    ]
+  }
 }

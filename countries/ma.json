@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Morocco",
-		"tlds": [
-			".ma",
-			".المغرب"
-		]
-	}
+  "country": {
+    "name": "Morocco",
+    "tlds": [
+      ".ma",
+      ".المغرب"
+    ]
+  }
 }

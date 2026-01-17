@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Cambodia",
-		"tlds": [
-			".kh"
-		]
-	}
+  "country": {
+    "name": "Cambodia",
+    "tlds": [
+      ".kh"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Samoa",
-		"tlds": [
-			".ws"
-		]
-	}
+  "country": {
+    "name": "Samoa",
+    "tlds": [
+      ".ws"
+    ]
+  }
 }

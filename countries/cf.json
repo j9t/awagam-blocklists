@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Central African Republic",
-		"tlds": [
-			".cf"
-		]
-	}
+  "country": {
+    "name": "Central African Republic",
+    "tlds": [
+      ".cf"
+    ]
+  }
 }

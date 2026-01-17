@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Armenia",
-		"tlds": [
-			".am",
-			".հայ"
-		]
-	}
+  "country": {
+    "name": "Armenia",
+    "tlds": [
+      ".am",
+      ".հայ"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Guinea-Bissau",
-		"tlds": [
-			".gw"
-		]
-	}
+  "country": {
+    "name": "Guinea-Bissau",
+    "tlds": [
+      ".gw"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Liechtenstein",
-		"tlds": [
-			".li"
-		]
-	}
+  "country": {
+    "name": "Liechtenstein",
+    "tlds": [
+      ".li"
+    ]
+  }
 }

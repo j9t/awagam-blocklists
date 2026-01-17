@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Togo",
-		"tlds": [
-			".tg"
-		]
-	}
+  "country": {
+    "name": "Togo",
+    "tlds": [
+      ".tg"
+    ]
+  }
 }

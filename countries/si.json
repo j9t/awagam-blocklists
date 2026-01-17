@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Slovenia",
-		"tlds": [
-			".si"
-		]
-	}
+  "country": {
+    "name": "Slovenia",
+    "tlds": [
+      ".si"
+    ]
+  }
 }

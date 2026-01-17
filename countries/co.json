@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Colombia",
-		"tlds": [
-			".co"
-		]
-	}
+  "country": {
+    "name": "Colombia",
+    "tlds": [
+      ".co"
+    ]
+  }
 }

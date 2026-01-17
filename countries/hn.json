@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Honduras",
-		"tlds": [
-			".hn"
-		]
-	}
+  "country": {
+    "name": "Honduras",
+    "tlds": [
+      ".hn"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Cape Verde",
-		"tlds": [
-			".cv"
-		]
-	}
+  "country": {
+    "name": "Cape Verde",
+    "tlds": [
+      ".cv"
+    ]
+  }
 }

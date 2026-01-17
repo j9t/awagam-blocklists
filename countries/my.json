@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Malaysia",
-		"tlds": [
-			".my"
-		]
-	}
+  "country": {
+    "name": "Malaysia",
+    "tlds": [
+      ".my"
+    ]
+  }
 }

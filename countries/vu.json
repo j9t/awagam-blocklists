@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Vanuatu",
-		"tlds": [
-			".vu"
-		]
-	}
+  "country": {
+    "name": "Vanuatu",
+    "tlds": [
+      ".vu"
+    ]
+  }
 }

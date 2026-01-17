@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Saint Vincent and the Grenadines",
-		"tlds": [
-			".vc"
-		]
-	}
+  "country": {
+    "name": "Saint Vincent and the Grenadines",
+    "tlds": [
+      ".vc"
+    ]
+  }
 }

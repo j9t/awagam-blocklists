@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Cuba",
-		"tlds": [
-			".cu"
-		]
-	}
+  "country": {
+    "name": "Cuba",
+    "tlds": [
+      ".cu"
+    ]
+  }
 }

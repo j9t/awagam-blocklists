@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Malta",
-		"tlds": [
-			".mt"
-		]
-	}
+  "country": {
+    "name": "Malta",
+    "tlds": [
+      ".mt"
+    ]
+  }
 }

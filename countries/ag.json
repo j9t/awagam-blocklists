@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Antigua and Barbuda",
-		"tlds": [
-			".ag"
-		]
-	}
+  "country": {
+    "name": "Antigua and Barbuda",
+    "tlds": [
+      ".ag"
+    ]
+  }
 }

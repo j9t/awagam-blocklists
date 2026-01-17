@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Lesotho",
-		"tlds": [
-			".ls"
-		]
-	}
+  "country": {
+    "name": "Lesotho",
+    "tlds": [
+      ".ls"
+    ]
+  }
 }

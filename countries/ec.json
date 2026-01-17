@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Ecuador",
-		"tlds": [
-			".ec"
-		]
-	}
+  "country": {
+    "name": "Ecuador",
+    "tlds": [
+      ".ec"
+    ]
+  }
 }

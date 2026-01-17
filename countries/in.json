@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "India",
-		"tlds": [
-			".in",
-			".भारत"
-		]
-	}
+  "country": {
+    "name": "India",
+    "tlds": [
+      ".in",
+      ".भारत"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Tanzania",
-		"tlds": [
-			".tz"
-		]
-	}
+  "country": {
+    "name": "Tanzania",
+    "tlds": [
+      ".tz"
+    ]
+  }
 }

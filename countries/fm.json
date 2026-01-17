@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Micronesia",
-		"tlds": [
-			".fm"
-		]
-	}
+  "country": {
+    "name": "Micronesia",
+    "tlds": [
+      ".fm"
+    ]
+  }
 }

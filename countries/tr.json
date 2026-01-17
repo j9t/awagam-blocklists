@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Turkey",
-		"tlds": [
-			".tr"
-		]
-	}
+  "country": {
+    "name": "Turkey",
+    "tlds": [
+      ".tr"
+    ]
+  }
 }

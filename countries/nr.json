@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Nauru",
-		"tlds": [
-			".nr"
-		]
-	}
+  "country": {
+    "name": "Nauru",
+    "tlds": [
+      ".nr"
+    ]
+  }
 }

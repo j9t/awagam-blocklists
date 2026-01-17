@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Brunei",
-		"tlds": [
-			".bn"
-		]
-	}
+  "country": {
+    "name": "Brunei",
+    "tlds": [
+      ".bn"
+    ]
+  }
 }

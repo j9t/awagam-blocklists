@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Fiji",
-		"tlds": [
-			".fj"
-		]
-	}
+  "country": {
+    "name": "Fiji",
+    "tlds": [
+      ".fj"
+    ]
+  }
 }

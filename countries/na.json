@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Namibia",
-		"tlds": [
-			".na"
-		]
-	}
+  "country": {
+    "name": "Namibia",
+    "tlds": [
+      ".na"
+    ]
+  }
 }

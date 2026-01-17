@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Kiribati",
-		"tlds": [
-			".ki"
-		]
-	}
+  "country": {
+    "name": "Kiribati",
+    "tlds": [
+      ".ki"
+    ]
+  }
 }

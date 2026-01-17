@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Bhutan",
-		"tlds": [
-			".bt"
-		]
-	}
+  "country": {
+    "name": "Bhutan",
+    "tlds": [
+      ".bt"
+    ]
+  }
 }

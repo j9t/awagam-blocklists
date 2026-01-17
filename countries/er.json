@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Eritrea",
-		"tlds": [
-			".er"
-		]
-	}
+  "country": {
+    "name": "Eritrea",
+    "tlds": [
+      ".er"
+    ]
+  }
 }

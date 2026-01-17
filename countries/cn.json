@@ -1,10 +1,10 @@
 {
-	"country": {
-		"name": "China",
-		"tlds": [
-			".cn",
-			".中国",
-			".中國"
-		]
-	}
+  "country": {
+    "name": "China",
+    "tlds": [
+      ".cn",
+      ".中国",
+      ".中國"
+    ]
+  }
 }

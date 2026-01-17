@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Turkmenistan",
-		"tlds": [
-			".tm"
-		]
-	}
+  "country": {
+    "name": "Turkmenistan",
+    "tlds": [
+      ".tm"
+    ]
+  }
 }

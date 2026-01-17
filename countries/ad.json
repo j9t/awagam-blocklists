@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Andorra",
-		"tlds": [
-			".ad"
-		]
-	}
+  "country": {
+    "name": "Andorra",
+    "tlds": [
+      ".ad"
+    ]
+  }
 }

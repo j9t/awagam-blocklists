@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "United Arab Emirates",
-		"tlds": [
-			".ae",
-			".امارات"
-		]
-	}
+  "country": {
+    "name": "United Arab Emirates",
+    "tlds": [
+      ".ae",
+      ".امارات"
+    ]
+  }
 }

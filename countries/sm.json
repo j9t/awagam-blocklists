@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "San Marino",
-		"tlds": [
-			".sm"
-		]
-	}
+  "country": {
+    "name": "San Marino",
+    "tlds": [
+      ".sm"
+    ]
+  }
 }

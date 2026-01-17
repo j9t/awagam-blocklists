@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Mongolia",
-		"tlds": [
-			".mn",
-			".мон"
-		]
-	}
+  "country": {
+    "name": "Mongolia",
+    "tlds": [
+      ".mn",
+      ".мон"
+    ]
+  }
 }

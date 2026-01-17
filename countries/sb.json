@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Solomon Islands",
-		"tlds": [
-			".sb"
-		]
-	}
+  "country": {
+    "name": "Solomon Islands",
+    "tlds": [
+      ".sb"
+    ]
+  }
 }

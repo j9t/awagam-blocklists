@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Djibouti",
-		"tlds": [
-			".dj"
-		]
-	}
+  "country": {
+    "name": "Djibouti",
+    "tlds": [
+      ".dj"
+    ]
+  }
 }

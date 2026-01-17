@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Zimbabwe",
-		"tlds": [
-			".zw"
-		]
-	}
+  "country": {
+    "name": "Zimbabwe",
+    "tlds": [
+      ".zw"
+    ]
+  }
 }

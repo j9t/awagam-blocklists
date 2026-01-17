@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Bahamas",
-		"tlds": [
-			".bs"
-		]
-	}
+  "country": {
+    "name": "Bahamas",
+    "tlds": [
+      ".bs"
+    ]
+  }
 }

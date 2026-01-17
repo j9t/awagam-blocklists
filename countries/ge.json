@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Georgia",
-		"tlds": [
-			".ge"
-		]
-	}
+  "country": {
+    "name": "Georgia",
+    "tlds": [
+      ".ge"
+    ]
+  }
 }

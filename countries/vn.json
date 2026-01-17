@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Vietnam",
-		"tlds": [
-			".vn"
-		]
-	}
+  "country": {
+    "name": "Vietnam",
+    "tlds": [
+      ".vn"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Benin",
-		"tlds": [
-			".bj"
-		]
-	}
+  "country": {
+    "name": "Benin",
+    "tlds": [
+      ".bj"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Guinea",
-		"tlds": [
-			".gn"
-		]
-	}
+  "country": {
+    "name": "Guinea",
+    "tlds": [
+      ".gn"
+    ]
+  }
 }

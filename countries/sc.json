@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Seychelles",
-		"tlds": [
-			".sc"
-		]
-	}
+  "country": {
+    "name": "Seychelles",
+    "tlds": [
+      ".sc"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Chad",
-		"tlds": [
-			".td"
-		]
-	}
+  "country": {
+    "name": "Chad",
+    "tlds": [
+      ".td"
+    ]
+  }
 }

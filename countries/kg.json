@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Kyrgyzstan",
-		"tlds": [
-			".kg"
-		]
-	}
+  "country": {
+    "name": "Kyrgyzstan",
+    "tlds": [
+      ".kg"
+    ]
+  }
 }

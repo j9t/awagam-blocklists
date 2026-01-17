@@ -1,10 +1,10 @@
 {
-	"country": {
-		"name": "Taiwan",
-		"tlds": [
-			".tw",
-			".台湾",
-			".台灣"
-		]
-	}
+  "country": {
+    "name": "Taiwan",
+    "tlds": [
+      ".tw",
+      ".台湾",
+      ".台灣"
+    ]
+  }
 }

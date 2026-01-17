@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Uzbekistan",
-		"tlds": [
-			".uz"
-		]
-	}
+  "country": {
+    "name": "Uzbekistan",
+    "tlds": [
+      ".uz"
+    ]
+  }
 }

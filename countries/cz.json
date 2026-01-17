@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Czech Republic",
-		"tlds": [
-			".cz"
-		]
-	}
+  "country": {
+    "name": "Czech Republic",
+    "tlds": [
+      ".cz"
+    ]
+  }
 }

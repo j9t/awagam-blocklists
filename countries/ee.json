@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Estonia",
-		"tlds": [
-			".ee"
-		]
-	}
+  "country": {
+    "name": "Estonia",
+    "tlds": [
+      ".ee"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Netherlands",
-		"tlds": [
-			".nl"
-		]
-	}
+  "country": {
+    "name": "Netherlands",
+    "tlds": [
+      ".nl"
+    ]
+  }
 }

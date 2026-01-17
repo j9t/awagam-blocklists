@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Monaco",
-		"tlds": [
-			".mc"
-		]
-	}
+  "country": {
+    "name": "Monaco",
+    "tlds": [
+      ".mc"
+    ]
+  }
 }

@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "Kazakhstan",
-		"tlds": [
-			".kz",
-			".қаз"
-		]
-	}
+  "country": {
+    "name": "Kazakhstan",
+    "tlds": [
+      ".kz",
+      ".қаз"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Sierra Leone",
-		"tlds": [
-			".sl"
-		]
-	}
+  "country": {
+    "name": "Sierra Leone",
+    "tlds": [
+      ".sl"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-	"country": {
-		"name": "Belize",
-		"tlds": [
-			".bz"
-		]
-	}
+  "country": {
+    "name": "Belize",
+    "tlds": [
+      ".bz"
+    ]
+  }
 }

@@ -1,9 +1,9 @@
 {
-	"country": {
-		"name": "South Korea",
-		"tlds": [
-			".kr",
-			".한국"
-		]
-	}
+  "country": {
+    "name": "South Korea",
+    "tlds": [
+      ".kr",
+      ".한국"
+    ]
+  }
 }
