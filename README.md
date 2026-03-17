@@ -1,6 +1,6 @@
 # AWAGAM Blocklists
 
-Blocklists for [the AWAGAM TLD, Domain, and URL Blocker Chromium extension](https://chromewebstore.google.com/detail/awagam-tld-domain-and-url/efnpgpiffjglnijemnmdkemiliiialbm) ([source](https://github.com/iadefensa/awagam-chromium)).
+Blocklists for [the AWAGAM TLD, Domain, and URL Blocker Chromium extension](https://chromewebstore.google.com/detail/ia-defensa-awagam-tld-dom/efnpgpiffjglnijemnmdkemiliiialbm) ([source](https://github.com/iadefensa/awagam-chromium)).
 
 Note that:
 
