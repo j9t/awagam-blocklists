@@ -1,15 +1,30 @@
 # AWAGAM Blocklists
 
-Blocklists for [the AWAGAM TLD, Domain, and URL Blocker Chromium extension](https://chromewebstore.google.com/detail/ia-defensa-awagam-tld-dom/efnpgpiffjglnijemnmdkemiliiialbm) ([source](https://github.com/iadefensa/awagam-chromium)).
+Blocklists for [the IA Defensa AWAGAM TLD, Domain, and URL Blocker Chromium extension](https://chromewebstore.google.com/detail/ia-defensa-awagam-tld-dom/efnpgpiffjglnijemnmdkemiliiialbm) ([more information](https://iadefensa.com/solutions/awagam-chromium/)). **Use at your own discretion.**
 
 Note that:
 
 1. You can “mix and match”—AWAGAM supports as many blocklists as Chromium-based browsers allow.
-2. You can still [create](https://github.com/iadefensa/awagam-chromium#blocklist-format) (or [convert](https://iadefensa.com/awagam/)) and host your own blocklists (sites like GitHub or Pastebin work well!).
+2. You can still [create](https://iadefensa.com/solutions/awagam-chromium/#blocklist-format) (or [convert](https://iadefensa.com/awagam/)) and host your own blocklists (sites like GitHub or Pastebin work well!).
 3. You decide what you block—the blocklists here are options that come without expectation or endorsement.
 4. You’re invited to suggest edits and additions (please [file an issue](https://github.com/j9t/awagam-blocklists/issues/new) or, even better, a PR).
 
 Each blocklist links the source blocklist in this repository and the respective “raw” URL for use with AWAGAM.
+
+## Community Blocklists
+
+Get started by using one or more community and sample blocklists:
+
+* [**Russia** (invasion of Ukraine)](https://pastebin.com/AjPpQK1p) (use [“raw” URL](https://pastebin.com/raw/AjPpQK1p) for blocklist) (anonymous contribution)—blocks 3 TLDs, 51 domains, 14 URLs (as of Aug 2025)
+* [**Israel** (genocide against Palestine and wars against Islamic countries)](https://pastebin.com/Cf5YCjg2) (use [“raw” URL](https://pastebin.com/raw/Cf5YCjg2) for blocklist) (anonymous contribution)—blocks 3 TLDs, 163 domains, 193 URLs (as of Oct 2025)
+  - [**Israel** extended fork](https://gitlab.com/ehud48/blocklist/-/blob/main/blocklist.json?ref_type=heads) ([“raw”](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json)) (anonymous contribution)—blocks 3 TLDs, 163 domains, 198 URLs (as of Oct 2025)
+* [**Hate groups and far-right parties**](https://pastebin.com/jMvCL5bN) (use [“raw” URL](https://pastebin.com/raw/jMvCL5bN) for blocklist) (anonymous contribution)—blocks 0 TLDs, 18 domains, 6 URLs (as of Aug 2025)
+* [Archived sample blocklists](https://github.com/j9t/awagam-sample-blocklists)
+* [**Yours?**](https://github.com/j9t/awagam-blocklists/pulls)
+
+As per IA Defensa, if you share a blocklist, you’re encouraged to release it under a permissive or public domain license such as [the Unlicense](https://unlicense.org/) or [CC0](https://creativecommons.org/public-domain/cc0/). This ensures maximum compatibility and reuse with AWAGAM. If your blocklist is licensed, please include a license file or link in your repository.
+
+(Blocklist contributions are only scanned, yet may be declined for any reason. Blocklists are listed to provide examples, not to endorse their content. It’s on each extension user to decide what to block and, therefore, what blocklists to use.)
 
 ## Countries
 
