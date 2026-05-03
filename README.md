@@ -17,7 +17,7 @@ Get started by using one or more community and sample blocklists:
 
 * [**Russia** (invasion of Ukraine)](https://pastebin.com/AjPpQK1p) (use [“raw” URL](https://pastebin.com/raw/AjPpQK1p) for blocklist) (anonymous contribution)—blocks 3 TLDs, 51 domains, 14 URLs (as of Aug 2025)
 * [**Israel** (genocide against Palestine and wars against Islamic countries)](https://pastebin.com/Cf5YCjg2) (use [“raw” URL](https://pastebin.com/raw/Cf5YCjg2) for blocklist) (anonymous contribution)—blocks 3 TLDs, 163 domains, 193 URLs (as of Oct 2025)
-  - [**Israel** extended fork](https://gitlab.com/ehud48/blocklist/-/blob/main/blocklist.json?ref_type=heads) ([“raw”](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json)) (anonymous contribution)—blocks 3 TLDs, 163 domains, 198 URLs (as of Oct 2025)
+  - [**Israel** extended fork](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json?ref_type=heads) ([“raw”](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json)) (anonymous contribution)—blocks 3 TLDs, 191 domains, 366 URLs (as of May 2026)
 * [**Hate groups and far-right parties**](https://pastebin.com/jMvCL5bN) (use [“raw” URL](https://pastebin.com/raw/jMvCL5bN) for blocklist) (anonymous contribution)—blocks 0 TLDs, 18 domains, 6 URLs (as of Aug 2025)
 * [Archived sample blocklists](https://github.com/j9t/awagam-sample-blocklists)
 * [**Yours?**](https://github.com/j9t/awagam-blocklists/pulls)
