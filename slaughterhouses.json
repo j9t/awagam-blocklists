@@ -1,0 +1,27 @@
+{
+  "slaughterhouses": {
+    "context": "",
+    "domains": [
+      "brf-global.com",
+      "brf-me.com",
+      "cargill.com",
+      "danishcrown.com",
+      "hormel.com",
+      "hormelfoods.com",
+      "hormelfoodservice.com",
+      "investors.smithfieldfoods.com",
+      "jbs.com.br",
+      "jbsfoodsgroup.com",
+      "jbsglobal.com",
+      "smithfieldfoods.com",
+      "spam.com",
+      "tyson.com",
+      "tysonbeefandpork.com",
+      "tysonfoods.com",
+      "tysonfoodservice.com"
+    ],
+    "name": "Major slaughterhouses",
+    "tlds": [],
+    "urls": []
+  }
+}

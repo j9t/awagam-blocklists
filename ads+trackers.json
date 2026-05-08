@@ -1,0 +1,16 @@
+{
+  "ad-platforms": {
+    "context": "",
+    "domains": [],
+    "name": "Ad Platforms",
+    "urls": []
+  },
+  "trackers": {
+    "context": "",
+    "domains": [],
+    "name": "Trackers",
+    "urls": [
+      "google.*/url?sa=T"
+    ]
+  }
+}

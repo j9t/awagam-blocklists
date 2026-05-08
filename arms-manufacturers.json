@@ -1,0 +1,39 @@
+{
+  "arms-manufacturers": {
+    "context": "",
+    "domains": [
+      "avic.com",
+      "baesystems.com",
+      "boeing.co.in",
+      "boeing.com",
+      "boeing.mediaroom.com",
+      "boeingfutureofflight.com",
+      "boeingstore.com",
+      "cetc.com.cn",
+      "diehl.com",
+      "elbitsystems.com",
+      "gd.com",
+      "gdit.com",
+      "gdmissionsystems.com",
+      "generaldynamics.uk.com",
+      "iai.co.il",
+      "imi-israel.com",
+      "kmweg.com",
+      "lockheedmartin.com",
+      "naval-group.com",
+      "nexter-group.fr",
+      "norinco.cn",
+      "northropgrumman.com",
+      "rafael.co.il",
+      "rheinmetall.com",
+      "rostec.ru",
+      "rtx.com",
+      "safran-group.com",
+      "thalesgroup.com",
+      "thyssenkrupp-marinesystems.com"
+    ],
+    "name": "Major arms manufacturers",
+    "tlds": [],
+    "urls": []
+  }
+}

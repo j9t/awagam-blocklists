@@ -15,11 +15,15 @@ Each blocklist links the source blocklist in this repository and the respective 
 
 Get started by using one or more community and sample blocklists:
 
+* [**Ads and trackers** (stub, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/ads+trackers.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/ads+trackers.json) for blocklist)
+* [**Major arms manufacturers** (early version, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/arms-manufacturers.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/arms-manufacturers.json) for blocklist)
+* [**Major oil companies** (early version, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/oil-companies.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/oil-companies.json) for blocklist)
+* [**Major slaughterhouses** (early version, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/slaughterhouses.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/slaughterhouses.json) for blocklist)
+* [**Major social networks** (early version, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/social-networks.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/social-networks.json) for blocklist)
+* [**Hate groups and far-right parties**](https://pastebin.com/jMvCL5bN) (use [“raw” URL](https://pastebin.com/raw/jMvCL5bN) for blocklist) (anonymous contribution)—blocks 0 TLDs, 18 domains, 6 URLs (as of Aug 2025)
 * [**Russia** (invasion of Ukraine)](https://pastebin.com/AjPpQK1p) (use [“raw” URL](https://pastebin.com/raw/AjPpQK1p) for blocklist) (anonymous contribution)—blocks 3 TLDs, 51 domains, 14 URLs (as of Aug 2025)
 * [**Israel** (genocide against Palestine and wars against Islamic countries)](https://pastebin.com/Cf5YCjg2) (use [“raw” URL](https://pastebin.com/raw/Cf5YCjg2) for blocklist) (anonymous contribution)—blocks 3 TLDs, 163 domains, 193 URLs (as of Oct 2025)
-  - [**Israel** extended fork](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json?ref_type=heads) ([“raw”](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json)) (anonymous contribution)—blocks 3 TLDs, 191 domains, 366 URLs (as of May 2026)
-* [**Hate groups and far-right parties**](https://pastebin.com/jMvCL5bN) (use [“raw” URL](https://pastebin.com/raw/jMvCL5bN) for blocklist) (anonymous contribution)—blocks 0 TLDs, 18 domains, 6 URLs (as of Aug 2025)
-* [Archived sample blocklists](https://github.com/j9t/awagam-sample-blocklists)
+  - [**Israel** extended fork](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json?ref_type=heads) ([raw](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json)) (anonymous contribution)—blocks 3 TLDs, 191 domains, 366 URLs (as of May 2026)
 * [**Yours?**](https://github.com/j9t/awagam-blocklists/pulls)
 
 As per IA Defensa, if you share a blocklist, you’re encouraged to release it under a permissive or public domain license such as [the Unlicense](https://unlicense.org/) or [CC0](https://creativecommons.org/public-domain/cc0/). This ensures maximum compatibility and reuse with AWAGAM. If your blocklist is licensed, please include a license file or link in your repository.

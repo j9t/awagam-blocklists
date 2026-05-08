@@ -1,0 +1,21 @@
+{
+  "social-networks": {
+    "context": "",
+    "domains": [
+      "bsky.app",
+      "facebook.com",
+      "instagram.com",
+      "snapchat.com",
+      "telegram.org",
+      "threads.com",
+      "truthsocial.com",
+      "tiktok.com",
+      "twitter.com",
+      "vk.com",
+      "x.com"
+    ],
+    "name": "Major commercial social networks",
+    "tlds": [],
+    "urls": []
+  }
+}

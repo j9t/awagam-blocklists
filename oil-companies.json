@@ -1,0 +1,15 @@
+{
+  "polluters": {
+    "context": "",
+    "domains": [
+      "aramco.com",
+      "bp.com",
+      "chevron.com",
+      "exxonmobil.com",
+      "shell.com"
+    ],
+    "name": "Major oil companies",
+    "tlds": [],
+    "urls": []
+  }
+}
