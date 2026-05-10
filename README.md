@@ -15,7 +15,7 @@ Each blocklist links the source blocklist in this repository and the respective 
 
 Get started by using one or more community and sample blocklists:
 
-* [**Ads and trackers** (stub, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/ads+trackers.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/ads+trackers.json) for blocklist)
+* [**Ads and trackers**](https://github.com/j9t/awagam-blocklists/blob/main/ads+trackers.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/ads+trackers.json) for blocklist)—currently largely based on key [EasyList](https://easylist.to/easylist/easylist.txt) domains and URLs
 * [**Major arms manufacturers** (early version, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/arms-manufacturers.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/arms-manufacturers.json) for blocklist)
 * [**Major oil companies** (early version, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/oil-companies.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/oil-companies.json) for blocklist)
 * [**Major slaughterhouses** (early version, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/slaughterhouses.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/slaughterhouses.json) for blocklist)
