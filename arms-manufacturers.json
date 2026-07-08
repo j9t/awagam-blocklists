@@ -30,10 +30,13 @@
       "rtx.com",
       "safran-group.com",
       "thalesgroup.com",
-      "thyssenkrupp-marinesystems.com"
+      "thyssenkrupp-marinesystems.com",
+      "tkmsgroup.com"
     ],
     "name": "Major arms manufacturers",
     "tlds": [],
-    "urls": []
+    "urls": [
+      "https://www.instagram.com/thyssenkruppmarinesystems/"
+    ]
   }
 }
