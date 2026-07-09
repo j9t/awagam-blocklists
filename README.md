@@ -26,7 +26,7 @@ Get started by using one or more community and sample blocklists:
   - [**Israel** extended fork](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json?ref_type=heads) ([raw](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json)) (anonymous contribution)—blocks 3 TLDs, 191 domains, 366 URLs (as of May 2026)
 * [**Yours?**](https://github.com/j9t/awagam-blocklists/pulls)
 
-As per IA Defensa, if you share a blocklist, you’re encouraged to release it under a permissive or public domain license such as [the Unlicense](https://unlicense.org/) or [CC0](https://creativecommons.org/public-domain/cc0/). This ensures maximum compatibility and reuse with AWAGAM. If your blocklist is licensed, please include a license file or link in your repository.
+As per IA Defensa, if you share a blocklist (or [a blocklist bundle](https://iadefensa.com/solutions/awagam-chromium/#bundle-format)), you’re encouraged to release it under a permissive or public domain license such as [the Unlicense](https://unlicense.org/) or [CC0](https://creativecommons.org/public-domain/cc0/). This ensures maximum compatibility and reuse with AWAGAM. If your blocklist is licensed, please include a license file or link in your repository.
 
 (Blocklist contributions are only scanned, yet may be declined for any reason. Blocklists are listed to provide examples, not to endorse their content. It’s on each extension user to decide what to block and, therefore, what blocklists to use.)
 
