@@ -7,7 +7,7 @@ Note that:
 1. You can “mix and match”—AWAGAM supports as many blocklists as Chromium-based browsers allow.
 2. You can still [create](https://iadefensa.com/solutions/awagam-chromium/#blocklist-format) (or [convert](https://iadefensa.com/awagam/)) and host your own blocklists (sites like GitHub or Pastebin work well!).
 3. You decide what you block—the blocklists here are options that come without expectation or endorsement.
-4. You’re invited to suggest edits and additions (please [file an issue](https://github.com/j9t/awagam-blocklists/issues/new) or, even better, a PR).
+4. You’re invited to suggest edits and additions (please [file an issue](https://github.com/j9t/awagam-blocklists/issues) or, even better, a PR).
 
 Each blocklist links the source blocklist in this repository and the respective “raw” URL for use with AWAGAM.
 
