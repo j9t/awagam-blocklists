@@ -1,6 +1,6 @@
 # AWAGAM Blocklists
 
-Blocklists for [the IA Defensa AWAGAM TLD, Domain, and URL Blocker Chromium extension](https://chromewebstore.google.com/detail/ia-defensa-awagam-tld-dom/efnpgpiffjglnijemnmdkemiliiialbm) ([more information](https://iadefensa.com/solutions/awagam-chromium/)). **Use at your own discretion.**
+Blocklists for [the IA Defensa AWAGAM TLD, Domain, and URL Blocker Chromium extension](https://iadefensa.com/solutions/awagam-chromium/) and [the IA Defensa AWAGAM TLD and Domain Blocker Android app](https://iadefensa.com/solutions/awagam-android/). **Use at your own discretion.**
 
 Note that:
 
