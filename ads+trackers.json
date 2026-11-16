@@ -1,19 +1,20 @@
 {
   "ad-platforms": {
+    "name": "Ad Platforms",
     "context": "",
     "domains": [],
-    "name": "Ad Platforms",
     "urls": []
   },
   "trackers": {
+    "name": "Trackers",
     "context": "",
     "domains": [],
-    "name": "Trackers",
     "urls": [
       "google.com/url?sa=T"
     ]
   },
   "easylist": {
+    "name": "EasyList distillate",
     "context": "Entries deduced from EasyList (via https://easylist.to/easylist/easylist.txt, EasyList version 202611100916, extracted 2026-11-10)",
     "domains": [
       "24affiliates.com",
@@ -264,7 +265,6 @@
       "yoc-adserver.com",
       "youradexchange.com"
     ],
-    "name": "EasyList distillate",
     "urls": [
       "24live.com/api/ads",
       "80.lv/api/promos?",

@@ -1,5 +1,6 @@
 {
   "polluters": {
+    "name": "Major oil companies",
     "context": "",
     "domains": [
       "adnoc.ae",
@@ -160,7 +161,6 @@
       "ypf.com",
       "ypfb.gob.bo"
     ],
-    "name": "Major oil companies",
     "tlds": [],
     "urls": [
       "https://bsky.app/profile/centalion.bsky.social",

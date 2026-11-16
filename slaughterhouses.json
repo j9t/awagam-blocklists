@@ -1,5 +1,6 @@
 {
   "slaughterhouses": {
+    "name": "Major slaughterhouses",
     "context": "",
     "domains": [
       "2sfg.com",
@@ -132,7 +133,6 @@
       "wlfoods.com",
       "yurun.com"
     ],
-    "name": "Major slaughterhouses",
     "tlds": [],
     "urls": [
       "https://weibo.com/u/6779491627",

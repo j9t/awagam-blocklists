@@ -1,5 +1,6 @@
 {
   "arms-manufacturers": {
+    "name": "Major arms manufacturers",
     "context": "",
     "domains": [
       "adanidefence.com",
@@ -282,7 +283,6 @@
       "yugoimport.com",
       "zastava-arms.rs"
     ],
-    "name": "Major arms manufacturers",
     "tlds": [],
     "urls": [
       "https://bsky.app/profile/airbus.com",

@@ -1,5 +1,6 @@
 {
   "social-networks": {
+    "name": "Major commercial social networks",
     "context": "",
     "domains": [
       "bsky.app",
@@ -14,7 +15,6 @@
       "vk.com",
       "x.com"
     ],
-    "name": "Major commercial social networks",
     "tlds": [],
     "urls": []
   }
