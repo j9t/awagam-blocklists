@@ -13,16 +13,16 @@ Each blocklist links the source blocklist in this repository and the respective 
 
 ## Community Blocklists
 
-Get started by using one or more community and sample blocklists:
+Get started by using (and extending!) one or more community and sample blocklists:
 
 * [**Ads and trackers**](https://github.com/j9t/awagam-blocklists/blob/main/ads+trackers.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/ads+trackers.json) for blocklist)—currently largely based on key [EasyList](https://easylist.to/easylist/easylist.txt) domains and URLs
-* [**Major arms manufacturers**](https://github.com/j9t/awagam-blocklists/blob/main/arms-manufacturers.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/arms-manufacturers.json) for blocklist)—blocks 0 TLDs, 279 domains, 724 URLs (as of Nov 2026)
-* [**Major oil companies**](https://github.com/j9t/awagam-blocklists/blob/main/oil-companies.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/oil-companies.json) for blocklist)—blocks 0 TLDs, 157 domains, 366 URLs (as of Nov 2026)
-* [**Major slaughterhouses**](https://github.com/j9t/awagam-blocklists/blob/main/slaughterhouses.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/slaughterhouses.json) for blocklist)—blocks 0 TLDs, 129 domains, 205 URLs (as of Nov 2026)
+* [**Major arms manufacturers**](https://github.com/j9t/awagam-blocklists/blob/main/arms-manufacturers.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/arms-manufacturers.json) for blocklist) (AI-assisted)—blocks 279 domains, 724 URLs (as of Nov 2026)
+* [**Major oil companies**](https://github.com/j9t/awagam-blocklists/blob/main/oil-companies.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/oil-companies.json) for blocklist) (AI-assisted)—blocks 157 domains, 366 URLs (as of Nov 2026)
+* [**Major slaughterhouses**](https://github.com/j9t/awagam-blocklists/blob/main/slaughterhouses.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/slaughterhouses.json) for blocklist) (AI-assisted)—blocks 129 domains, 205 URLs (as of Nov 2026)
 * [**Major social networks** (early version, needs support)](https://github.com/j9t/awagam-blocklists/blob/main/social-networks.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/social-networks.json) for blocklist)
-* [**Hate groups and far-right parties**](https://pastebin.com/jMvCL5bN) (use [“raw” URL](https://pastebin.com/raw/jMvCL5bN) for blocklist) (anonymous contribution)—blocks 0 TLDs, 18 domains, 6 URLs (as of Aug 2025)
-* [**Russia** (invasion of Ukraine)](https://pastebin.com/AjPpQK1p) (use [“raw” URL](https://pastebin.com/raw/AjPpQK1p) for blocklist) (anonymous contribution)—blocks 3 TLDs, 51 domains, 14 URLs (as of Aug 2025)
+* [**Hate groups and far-right parties**](https://github.com/j9t/awagam-blocklists/blob/main/hate-groups+far-right-parties.json) (use [“raw” URL](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/hate-groups+far-right-parties.json) for blocklist) (AI-assisted)—blocks 75 domains, 145 URLs (as of Nov 2026) (extends former [anonymous contribution](https://pastebin.com/jMvCL5bN))
 * [**Israel** (genocide against Palestine and wars against Islamic countries)](https://gitlab.com/ehud48/blocklist/-/blob/main/blocklist.json?ref_type=heads) (use [“raw” URL](https://gitlab.com/ehud48/blocklist/-/raw/main/blocklist.json) for blocklist) (anonymous contribution)—blocks 3 TLDs, 219 domains, 451 URLs (as of Aug 2026)
+* [**Russia** (invasion of Ukraine)](https://pastebin.com/AjPpQK1p) (use [“raw” URL](https://pastebin.com/raw/AjPpQK1p) for blocklist) (anonymous contribution)—blocks 3 TLDs, 51 domains, 14 URLs (as of Aug 2025)
 * [**Yours?**](https://github.com/j9t/awagam-blocklists/pulls)
 
 As per IA Defensa, if you share a blocklist (or [a blocklist bundle](https://iadefensa.com/solutions/awagam-chromium/#bundle-format)), you’re encouraged to release it under a permissive or public domain license such as [the Unlicense](https://unlicense.org/) or [CC0](https://creativecommons.org/public-domain/cc0/). This ensures maximum compatibility and reuse with AWAGAM. If your blocklist is licensed, please include a license file or link in your repository.
