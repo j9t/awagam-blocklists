@@ -229,3 +229,11 @@ These are country-specific blocklists that block the country’s respective TLDs
 * [Yemen](https://github.com/j9t/awagam-blocklists/blob/main/countries/ye.json) ([raw](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/countries/ye.json))
 * [Zambia](https://github.com/j9t/awagam-blocklists/blob/main/countries/zm.json) ([raw](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/countries/zm.json))
 * [Zimbabwe](https://github.com/j9t/awagam-blocklists/blob/main/countries/zw.json) ([raw](https://raw.githubusercontent.com/j9t/awagam-blocklists/main/countries/zw.json))
+
+***
+
+You might like some of my other work:
+
+* Optimization tools: [hihtml](https://github.com/j9t/hihtml) · [HTML Minifier](https://github.com/j9t/html-minifier) · [CSS Dedup](https://github.com/j9t/css-dedup) · [Image Guard](https://github.com/j9t/image-guard) · [more](https://github.com/j9t?tab=repositories)
+* Defense tools: [AWAGAM TLD, Domain, and URL Blocker](https://iadefensa.com/solutions/awagam-chromium/) · [Middleman Alerter](https://iadefensa.com/solutions/middleman-alerter-chromium/) · [New Tab Traffic Randomizer](https://iadefensa.com/solutions/new-tab-traffic-randomizer-chromium/) · [Searcher](https://iadefensa.com/solutions/searcher-chromium/) · [more](https://iadefensa.com/solutions/)
+* Resources for quality web development: [Articles](https://meiert.com/topics/development/) · [Books](https://meiert.com/topics/books/) · [News](https://dxsrc.org/) · [Terminology](https://webglossary.info/)
