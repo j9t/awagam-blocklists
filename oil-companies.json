@@ -1,5 +1,5 @@
 {
-  "polluters": {
+  "oil-companies": {
     "name": "Major oil companies",
     "context": "",
     "domains": [
@@ -533,7 +533,7 @@
   },
   "competitiveness-roundtable": {
     "name": "Competitiveness Roundtable",
-    "context": "",
+    "context": "https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/",
     "domains": [
       "alamo.com",
       "bakerhughes.com",
